@@ -1,2 +1,5 @@
 # vscode-theme
-Theme for vs code
+
+Non-forked Dark theme for VS Code.
+
+
